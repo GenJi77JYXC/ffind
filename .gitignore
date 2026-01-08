@@ -23,3 +23,6 @@ test.txt
 # OS 文件
 .DS_Store
 Thumbs.db
+/ffind-darwin-amd64
+/ffind-windows-amd64.exe
+/ffind-linux-amd64
