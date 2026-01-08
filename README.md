@@ -18,7 +18,7 @@
 
 ### 方法1：直接下载二进制（推荐）
 
-去 [Releases](https://github.com/你的用户名/ffind/releases) 下载对应系统的版本：
+去 [Releases](https://github.com/GenJi77JYXC/ffind/releases/tag/v1.0.0) 下载对应系统的版本：
 
 ```bash
 # Linux 示例
