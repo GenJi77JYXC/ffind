@@ -1,0 +1,3 @@
+This is a Test file with MAIN and main words.
+Main function is here.
+package main
