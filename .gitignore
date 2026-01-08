@@ -1,0 +1,25 @@
+# Go 相关
+/go.mod
+/go.sum
+/*.exe
+/ffind
+/ffind-linux
+/ffind-darwin
+/ffind-windows
+
+# 编译输出
+bin/
+dist/
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+
+# 测试文件
+test.txt
+*.log
+
+# OS 文件
+.DS_Store
+Thumbs.db
